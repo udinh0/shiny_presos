@@ -1,0 +1,505 @@
+Estado,Categoria,Ano,Valor
+Brasil,Masculino,2018,23424
+Brasil,Masculino,2019,20887
+Brasil,Masculino,2020,14235
+Brasil,Masculino,2021,12736
+Brasil,Masculino,2022,11982
+Brasil,Masculino,2023,11277
+Brasil,Feminino,2018,1086
+Brasil,Feminino,2019,1144
+Brasil,Feminino,2020,709
+Brasil,Feminino,2021,593
+Brasil,Feminino,2022,533
+Brasil,Feminino,2023,480
+Brasil,Total,2018,24510
+Brasil,Total,2019,22031
+Brasil,Total,2020,14944
+Brasil,Total,2021,13329
+Brasil,Total,2022,12515
+Brasil,Total,2023,11757
+Acre,Masculino,2018,735
+Acre,Masculino,2019,693
+Acre,Masculino,2020,352
+Acre,Masculino,2021,296
+Acre,Masculino,2022,311
+Acre,Masculino,2023,188
+Acre,Feminino,2018,70
+Acre,Feminino,2019,150
+Acre,Feminino,2020,68
+Acre,Feminino,2021,66
+Acre,Feminino,2022,50
+Acre,Feminino,2023,17
+Acre,Total,2018,805
+Acre,Total,2019,843
+Acre,Total,2020,420
+Acre,Total,2021,362
+Acre,Total,2022,361
+Acre,Total,2023,205
+Alagoas,Masculino,2018,265
+Alagoas,Masculino,2019,301
+Alagoas,Masculino,2020,220
+Alagoas,Masculino,2021,179
+Alagoas,Masculino,2022,144
+Alagoas,Masculino,2023,152
+Alagoas,Feminino,2018,10
+Alagoas,Feminino,2019,20
+Alagoas,Feminino,2020,10
+Alagoas,Feminino,2021,4
+Alagoas,Feminino,2022,7
+Alagoas,Feminino,2023,3
+Alagoas,Total,2018,275
+Alagoas,Total,2019,321
+Alagoas,Total,2020,230
+Alagoas,Total,2021,183
+Alagoas,Total,2022,151
+Alagoas,Total,2023,155
+Amapá,Masculino,2018,242
+Amapá,Masculino,2019,344
+Amapá,Masculino,2020,168
+Amapá,Masculino,2021,130
+Amapá,Masculino,2022,31
+Amapá,Masculino,2023,31
+Amapá,Feminino,2018,24
+Amapá,Feminino,2019,24
+Amapá,Feminino,2020,10
+Amapá,Feminino,2021,7
+Amapá,Feminino,2022,4
+Amapá,Feminino,2023,3
+Amapá,Total,2018,266
+Amapá,Total,2019,368
+Amapá,Total,2020,178
+Amapá,Total,2021,137
+Amapá,Total,2022,35
+Amapá,Total,2023,34
+Amazonas,Masculino,2018,128
+Amazonas,Masculino,2019,170
+Amazonas,Masculino,2020,101
+Amazonas,Masculino,2021,100
+Amazonas,Masculino,2022,47
+Amazonas,Masculino,2023,36
+Amazonas,Feminino,2018,11
+Amazonas,Feminino,2019,10
+Amazonas,Feminino,2020,18
+Amazonas,Feminino,2021,6
+Amazonas,Feminino,2022,3
+Amazonas,Feminino,2023,4
+Amazonas,Total,2018,139
+Amazonas,Total,2019,180
+Amazonas,Total,2020,119
+Amazonas,Total,2021,106
+Amazonas,Total,2022,50
+Amazonas,Total,2023,40
+Bahia,Masculino,2018,650
+Bahia,Masculino,2019,560
+Bahia,Masculino,2020,321
+Bahia,Masculino,2021,212
+Bahia,Masculino,2022,198
+Bahia,Masculino,2023,203
+Bahia,Feminino,2018,28
+Bahia,Feminino,2019,29
+Bahia,Feminino,2020,3
+Bahia,Feminino,2021,3
+Bahia,Feminino,2022,5
+Bahia,Feminino,2023,12
+Bahia,Total,2018,678
+Bahia,Total,2019,589
+Bahia,Total,2020,324
+Bahia,Total,2021,215
+Bahia,Total,2022,203
+Bahia,Total,2023,215
+Ceará,Masculino,2018,768
+Ceará,Masculino,2019,534
+Ceará,Masculino,2020,431
+Ceará,Masculino,2021,419
+Ceará,Masculino,2022,588
+Ceará,Masculino,2023,455
+Ceará,Feminino,2018,45
+Ceará,Feminino,2019,51
+Ceará,Feminino,2020,32
+Ceará,Feminino,2021,31
+Ceará,Feminino,2022,36
+Ceará,Feminino,2023,16
+Ceará,Total,2018,813
+Ceará,Total,2019,585
+Ceará,Total,2020,463
+Ceará,Total,2021,450
+Ceará,Total,2022,624
+Ceará,Total,2023,471
+Distrito Federal,Masculino,2018,944
+Distrito Federal,Masculino,2019,892
+Distrito Federal,Masculino,2020,748
+Distrito Federal,Masculino,2021,510
+Distrito Federal,Masculino,2022,394
+Distrito Federal,Masculino,2023,333
+Distrito Federal,Feminino,2018,37
+Distrito Federal,Feminino,2019,29
+Distrito Federal,Feminino,2020,25
+Distrito Federal,Feminino,2021,15
+Distrito Federal,Feminino,2022,7
+Distrito Federal,Feminino,2023,5
+Distrito Federal,Total,2018,981
+Distrito Federal,Total,2019,921
+Distrito Federal,Total,2020,773
+Distrito Federal,Total,2021,525
+Distrito Federal,Total,2022,401
+Distrito Federal,Total,2023,338
+Espírito Santo (4),Masculino,2018,826
+Espírito Santo (4),Masculino,2019,737
+Espírito Santo (4),Masculino,2020,505
+Espírito Santo (4),Masculino,2021,545
+Espírito Santo (4),Masculino,2022,659
+Espírito Santo (4),Masculino,2023,526
+Espírito Santo (4),Feminino,2018,19
+Espírito Santo (4),Feminino,2019,12
+Espírito Santo (4),Feminino,2020,5
+Espírito Santo (4),Feminino,2021,6
+Espírito Santo (4),Feminino,2022,13
+Espírito Santo (4),Feminino,2023,11
+Espírito Santo (4),Total,2018,845
+Espírito Santo (4),Total,2019,749
+Espírito Santo (4),Total,2020,510
+Espírito Santo (4),Total,2021,551
+Espírito Santo (4),Total,2022,672
+Espírito Santo (4),Total,2023,537
+Goiás,Masculino,2018,431
+Goiás,Masculino,2019,397
+Goiás,Masculino,2020,180
+Goiás,Masculino,2021,187
+Goiás,Masculino,2022,132
+Goiás,Masculino,2023,154
+Goiás,Feminino,2018,32
+Goiás,Feminino,2019,36
+Goiás,Feminino,2020,12
+Goiás,Feminino,2021,4
+Goiás,Feminino,2022,13
+Goiás,Feminino,2023,12
+Goiás,Total,2018,463
+Goiás,Total,2019,433
+Goiás,Total,2020,192
+Goiás,Total,2021,191
+Goiás,Total,2022,145
+Goiás,Total,2023,166
+Maranhão,Masculino,2018,359
+Maranhão,Masculino,2019,408
+Maranhão,Masculino,2020,250
+Maranhão,Masculino,2021,221
+Maranhão,Masculino,2022,202
+Maranhão,Masculino,2023,170
+Maranhão,Feminino,2018,15
+Maranhão,Feminino,2019,8
+Maranhão,Feminino,2020,5
+Maranhão,Feminino,2021,8
+Maranhão,Feminino,2022,4
+Maranhão,Feminino,2023,8
+Maranhão,Total,2018,374
+Maranhão,Total,2019,416
+Maranhão,Total,2020,255
+Maranhão,Total,2021,229
+Maranhão,Total,2022,206
+Maranhão,Total,2023,178
+Mato Grosso,Masculino,2018,104
+Mato Grosso,Masculino,2019,100
+Mato Grosso,Masculino,2020,93
+Mato Grosso,Masculino,2021,98
+Mato Grosso,Masculino,2022,111
+Mato Grosso,Masculino,2023,117
+Mato Grosso,Feminino,2018,10
+Mato Grosso,Feminino,2019,3
+Mato Grosso,Feminino,2020,4
+Mato Grosso,Feminino,2021,9
+Mato Grosso,Feminino,2022,7
+Mato Grosso,Feminino,2023,11
+Mato Grosso,Total,2018,114
+Mato Grosso,Total,2019,103
+Mato Grosso,Total,2020,97
+Mato Grosso,Total,2021,107
+Mato Grosso,Total,2022,118
+Mato Grosso,Total,2023,128
+Mato Grosso do Sul,Masculino,2018,249
+Mato Grosso do Sul,Masculino,2019,230
+Mato Grosso do Sul,Masculino,2020,150
+Mato Grosso do Sul,Masculino,2021,133
+Mato Grosso do Sul,Masculino,2022,177
+Mato Grosso do Sul,Masculino,2023,160
+Mato Grosso do Sul,Feminino,2018,16
+Mato Grosso do Sul,Feminino,2019,21
+Mato Grosso do Sul,Feminino,2020,12
+Mato Grosso do Sul,Feminino,2021,12
+Mato Grosso do Sul,Feminino,2022,14
+Mato Grosso do Sul,Feminino,2023,6
+Mato Grosso do Sul,Total,2018,265
+Mato Grosso do Sul,Total,2019,251
+Mato Grosso do Sul,Total,2020,162
+Mato Grosso do Sul,Total,2021,145
+Mato Grosso do Sul,Total,2022,191
+Mato Grosso do Sul,Total,2023,166
+Minas Gerais,Masculino,2018,1585
+Minas Gerais,Masculino,2019,1506
+Minas Gerais,Masculino,2020,954
+Minas Gerais,Masculino,2021,843
+Minas Gerais,Masculino,2022,809
+Minas Gerais,Masculino,2023,733
+Minas Gerais,Feminino,2018,48
+Minas Gerais,Feminino,2019,36
+Minas Gerais,Feminino,2020,16
+Minas Gerais,Feminino,2021,16
+Minas Gerais,Feminino,2022,16
+Minas Gerais,Feminino,2023,15
+Minas Gerais,Total,2018,1633
+Minas Gerais,Total,2019,1542
+Minas Gerais,Total,2020,970
+Minas Gerais,Total,2021,859
+Minas Gerais,Total,2022,825
+Minas Gerais,Total,2023,748
+Pará,Masculino,2018,386
+Pará,Masculino,2019,367
+Pará,Masculino,2020,232
+Pará,Masculino,2021,193
+Pará,Masculino,2022,161
+Pará,Masculino,2023,163
+Pará,Feminino,2018,27
+Pará,Feminino,2019,24
+Pará,Feminino,2020,14
+Pará,Feminino,2021,11
+Pará,Feminino,2022,16
+Pará,Feminino,2023,15
+Pará,Total,2018,413
+Pará,Total,2019,391
+Pará,Total,2020,246
+Pará,Total,2021,204
+Pará,Total,2022,177
+Pará,Total,2023,178
+Paraíba,Masculino,2018,483
+Paraíba,Masculino,2019,410
+Paraíba,Masculino,2020,210
+Paraíba,Masculino,2021,177
+Paraíba,Masculino,2022,195
+Paraíba,Masculino,2023,133
+Paraíba,Feminino,2018,17
+Paraíba,Feminino,2019,17
+Paraíba,Feminino,2020,4
+Paraíba,Feminino,2021,1
+Paraíba,Feminino,2022,6
+Paraíba,Feminino,2023,4
+Paraíba,Total,2018,500
+Paraíba,Total,2019,427
+Paraíba,Total,2020,214
+Paraíba,Total,2021,178
+Paraíba,Total,2022,201
+Paraíba,Total,2023,137
+Paraná,Masculino,2018,937
+Paraná,Masculino,2019,800
+Paraná,Masculino,2020,430
+Paraná,Masculino,2021,422
+Paraná,Masculino,2022,396
+Paraná,Masculino,2023,465
+Paraná,Feminino,2018,52
+Paraná,Feminino,2019,50
+Paraná,Feminino,2020,31
+Paraná,Feminino,2021,21
+Paraná,Feminino,2022,28
+Paraná,Feminino,2023,36
+Paraná,Total,2018,989
+Paraná,Total,2019,850
+Paraná,Total,2020,461
+Paraná,Total,2021,443
+Paraná,Total,2022,424
+Paraná,Total,2023,501
+Pernambuco,Masculino,2018,1446
+Pernambuco,Masculino,2019,1058
+Pernambuco,Masculino,2020,818
+Pernambuco,Masculino,2021,661
+Pernambuco,Masculino,2022,691
+Pernambuco,Masculino,2023,520
+Pernambuco,Feminino,2018,51
+Pernambuco,Feminino,2019,60
+Pernambuco,Feminino,2020,45
+Pernambuco,Feminino,2021,43
+Pernambuco,Feminino,2022,24
+Pernambuco,Feminino,2023,17
+Pernambuco,Total,2018,1497
+Pernambuco,Total,2019,1118
+Pernambuco,Total,2020,863
+Pernambuco,Total,2021,704
+Pernambuco,Total,2022,715
+Pernambuco,Total,2023,537
+Piauí,Masculino,2018,140
+Piauí,Masculino,2019,151
+Piauí,Masculino,2020,114
+Piauí,Masculino,2021,91
+Piauí,Masculino,2022,97
+Piauí,Masculino,2023,131
+Piauí,Feminino,2018,33
+Piauí,Feminino,2019,24
+Piauí,Feminino,2020,17
+Piauí,Feminino,2021,8
+Piauí,Feminino,2022,7
+Piauí,Feminino,2023,5
+Piauí,Total,2018,173
+Piauí,Total,2019,175
+Piauí,Total,2020,131
+Piauí,Total,2021,99
+Piauí,Total,2022,104
+Piauí,Total,2023,136
+Rio de Janeiro,Masculino,2018,1940
+Rio de Janeiro,Masculino,2019,1571
+Rio de Janeiro,Masculino,2020,1049
+Rio de Janeiro,Masculino,2021,849
+Rio de Janeiro,Masculino,2022,669
+Rio de Janeiro,Masculino,2023,600
+Rio de Janeiro,Feminino,2018,66
+Rio de Janeiro,Feminino,2019,56
+Rio de Janeiro,Feminino,2020,35
+Rio de Janeiro,Feminino,2021,27
+Rio de Janeiro,Feminino,2022,23
+Rio de Janeiro,Feminino,2023,24
+Rio de Janeiro,Total,2018,2006
+Rio de Janeiro,Total,2019,1627
+Rio de Janeiro,Total,2020,1084
+Rio de Janeiro,Total,2021,876
+Rio de Janeiro,Total,2022,692
+Rio de Janeiro,Total,2023,624
+Rio Grande do Norte,Masculino,2018,218
+Rio Grande do Norte,Masculino,2019,212
+Rio Grande do Norte,Masculino,2020,481
+Rio Grande do Norte,Masculino,2021,519
+Rio Grande do Norte,Masculino,2022,403
+Rio Grande do Norte,Masculino,2023,166
+Rio Grande do Norte,Feminino,2018,9
+Rio Grande do Norte,Feminino,2019,20
+Rio Grande do Norte,Feminino,2020,31
+Rio Grande do Norte,Feminino,2021,43
+Rio Grande do Norte,Feminino,2022,22
+Rio Grande do Norte,Feminino,2023,6
+Rio Grande do Norte,Total,2018,227
+Rio Grande do Norte,Total,2019,232
+Rio Grande do Norte,Total,2020,512
+Rio Grande do Norte,Total,2021,562
+Rio Grande do Norte,Total,2022,425
+Rio Grande do Norte,Total,2023,172
+Rio Grande do Sul,Masculino,2018,1260
+Rio Grande do Sul,Masculino,2019,1014
+Rio Grande do Sul,Masculino,2020,631
+Rio Grande do Sul,Masculino,2021,439
+Rio Grande do Sul,Masculino,2022,392
+Rio Grande do Sul,Masculino,2023,386
+Rio Grande do Sul,Feminino,2018,33
+Rio Grande do Sul,Feminino,2019,44
+Rio Grande do Sul,Feminino,2020,20
+Rio Grande do Sul,Feminino,2021,9
+Rio Grande do Sul,Feminino,2022,9
+Rio Grande do Sul,Feminino,2023,12
+Rio Grande do Sul,Total,2018,1293
+Rio Grande do Sul,Total,2019,1058
+Rio Grande do Sul,Total,2020,651
+Rio Grande do Sul,Total,2021,448
+Rio Grande do Sul,Total,2022,401
+Rio Grande do Sul,Total,2023,398
+Rondônia,Masculino,2018,199
+Rondônia,Masculino,2019,203
+Rondônia,Masculino,2020,123
+Rondônia,Masculino,2021,115
+Rondônia,Masculino,2022,93
+Rondônia,Masculino,2023,86
+Rondônia,Feminino,2018,14
+Rondônia,Feminino,2019,13
+Rondônia,Feminino,2020,8
+Rondônia,Feminino,2021,6
+Rondônia,Feminino,2022,6
+Rondônia,Feminino,2023,NA
+Rondônia,Total,2018,213
+Rondônia,Total,2019,216
+Rondônia,Total,2020,131
+Rondônia,Total,2021,121
+Rondônia,Total,2022,99
+Rondônia,Total,2023,86
+Roraima,Masculino,2018,69
+Roraima,Masculino,2019,92
+Roraima,Masculino,2020,54
+Roraima,Masculino,2021,65
+Roraima,Masculino,2022,44
+Roraima,Masculino,2023,35
+Roraima,Feminino,2018,12
+Roraima,Feminino,2019,10
+Roraima,Feminino,2020,NA
+Roraima,Feminino,2021,3
+Roraima,Feminino,2022,2
+Roraima,Feminino,2023,1
+Roraima,Total,2018,81
+Roraima,Total,2019,102
+Roraima,Total,2020,54
+Roraima,Total,2021,68
+Roraima,Total,2022,46
+Roraima,Total,2023,36
+Santa Catarina,Masculino,2018,408
+Santa Catarina,Masculino,2019,410
+Santa Catarina,Masculino,2020,353
+Santa Catarina,Masculino,2021,350
+Santa Catarina,Masculino,2022,354
+Santa Catarina,Masculino,2023,513
+Santa Catarina,Feminino,2018,16
+Santa Catarina,Feminino,2019,19
+Santa Catarina,Feminino,2020,14
+Santa Catarina,Feminino,2021,11
+Santa Catarina,Feminino,2022,22
+Santa Catarina,Feminino,2023,24
+Santa Catarina,Total,2018,424
+Santa Catarina,Total,2019,429
+Santa Catarina,Total,2020,367
+Santa Catarina,Total,2021,361
+Santa Catarina,Total,2022,376
+Santa Catarina,Total,2023,537
+São Paulo,Masculino,2018,8065
+São Paulo,Masculino,2019,7165
+São Paulo,Masculino,2020,4845
+São Paulo,Masculino,2021,4634
+São Paulo,Masculino,2022,4524
+São Paulo,Masculino,2023,4701
+São Paulo,Feminino,2018,353
+São Paulo,Feminino,2019,329
+São Paulo,Feminino,2020,230
+São Paulo,Feminino,2021,213
+São Paulo,Feminino,2022,182
+São Paulo,Feminino,2023,209
+São Paulo,Total,2018,8418
+São Paulo,Total,2019,7494
+São Paulo,Total,2020,5075
+São Paulo,Total,2021,4847
+São Paulo,Total,2022,4706
+São Paulo,Total,2023,4910
+Sergipe,Masculino,2018,249
+Sergipe,Masculino,2019,267
+Sergipe,Masculino,2020,171
+Sergipe,Masculino,2021,127
+Sergipe,Masculino,2022,118
+Sergipe,Masculino,2023,81
+Sergipe,Feminino,2018,8
+Sergipe,Feminino,2019,14
+Sergipe,Feminino,2020,10
+Sergipe,Feminino,2021,3
+Sergipe,Feminino,2022,4
+Sergipe,Feminino,2023,2
+Sergipe,Total,2018,257
+Sergipe,Total,2019,281
+Sergipe,Total,2020,181
+Sergipe,Total,2021,130
+Sergipe,Total,2022,122
+Sergipe,Total,2023,83
+Tocantins,Masculino,2018,338
+Tocantins,Masculino,2019,295
+Tocantins,Masculino,2020,251
+Tocantins,Masculino,2021,221
+Tocantins,Masculino,2022,42
+Tocantins,Masculino,2023,39
+Tocantins,Feminino,2018,30
+Tocantins,Feminino,2019,35
+Tocantins,Feminino,2020,30
+Tocantins,Feminino,2021,7
+Tocantins,Feminino,2022,3
+Tocantins,Feminino,2023,2
+Tocantins,Total,2018,368
+Tocantins,Total,2019,330
+Tocantins,Total,2020,281
+Tocantins,Total,2021,228
+Tocantins,Total,2022,45
+Tocantins,Total,2023,41
