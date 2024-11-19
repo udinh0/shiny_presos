@@ -40,5 +40,4 @@ Este projeto apresenta um **painel interativo** desenvolvido com o R e o **Shiny
 - **`config.yaml`**: Arquivo de configuração para parâmetros adicionais (e.g., número de linhas na tabela).
 - **R scripts**: Contém a implementação do painel interativo.
 - **Site do Projeto**: [https://udinh0.shinyapps.io/presos/](https://udinh0.shinyapps.io/presos/)
----
-
+- **Site dos dados**: [https://publicacoes.forumseguranca.org.br/items/f62c4196-561d-452d-a2a8-9d33d1163af0](https://publicacoes.forumseguranca.org.br/items/f62c4196-561d-452d-a2a8-9d33d1163af0)

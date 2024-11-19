@@ -44,11 +44,9 @@ tipo de gráfico.
 
 - **`dados.csv`**: Arquivo principal contendo os dados do sistema
   prisional.
-
 - **`config.yaml`**: Arquivo de configuração para parâmetros adicionais
   (e.g., número de linhas na tabela).
-
 - **R scripts**: Contém a implementação do painel interativo.
-
-- ## **Site do Projeto**: <https://udinh0.shinyapps.io/presos/>
-"# shiny_presos" 
+- **Site do Projeto**: <https://udinh0.shinyapps.io/presos/>
+- **Site dos dados**:
+  <https://publicacoes.forumseguranca.org.br/items/f62c4196-561d-452d-a2a8-9d33d1163af0>
